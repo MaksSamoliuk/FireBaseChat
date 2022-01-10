@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271684459249",
+    "firebase_url": "https://mychatikk-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychatikk",
+    "storage_bucket": "mychatikk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271684459249:android:5497e0e06ca50bfe46a750",
+        "android_client_info": {
+          "package_name": "com.example.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271684459249-ap0a4krgftkvd39btdels8knr3td4ij1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn",
+            "certificate_hash": "d92edfa246af212d517343bfddb50e7d8bfd8436"
+          }
+        },
+        {
+          "client_id": "271684459249-j6nvt0t068pd8r3dvirkhk3m31bip2cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lWNDbqML4EztVKwFGcRT2GtMU46AgBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271684459249-j6nvt0t068pd8r3dvirkhk3m31bip2cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
